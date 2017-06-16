@@ -1,3 +1,5 @@
 # PixelBot
 A simple game
-TODO: create base project files
+# To Do:
+create base project files
+<br>plan project architecture
