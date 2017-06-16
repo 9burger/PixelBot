@@ -1,0 +1,2 @@
+# PixelBot
+A simple game
